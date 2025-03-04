@@ -1,6 +1,16 @@
 {
-    "workbench.startupEditor": "readme",
-    "workbench.editorAssociations": {
-        "*.md": "vscode.markdown.preview.editor"
-    }
+	"workbench.startupEditor": "readme",
+	"workbench.editorAssociations": {
+		"*.md": "vscode.markdown.preview.editor"
+	},
+	"cSpell.words": [
+		"binom",
+		"dbinom",
+		"displot",
+		"figsize",
+		"ndarray",
+		"pbinom",
+		"qbinom",
+		"rbinom"
+	]
 }
